@@ -61,8 +61,8 @@ body{
 .btn{
     background: var(--BrightYellow);
     color: #fff;
-    width: 90%;
-    height: 40px;
+    height: 100%;
+    width: 100%;
     padding: 12px;
     border-radius: 8px;
     border: 10px;
